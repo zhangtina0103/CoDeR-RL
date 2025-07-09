@@ -1,0 +1,106 @@
+# Large model files
+*.safetensors
+*.bin
+*.pth
+*.ckpt
+*.pt
+*.pkl
+*.pickle
+
+# Model directories
+models/
+info/
+
+# Data files
+*.parquet
+*.json
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Data directories
+verl/
+data/
+datasets/
+checkpoints/
+outputs/
+logs/
+runs/
+wandb/
+
+# Training artifacts
+*.log
+*.log.*
+trainer_state.json
+training_args.bin
+all_results.json
+eval_results.json
+train_results.json
+trainer_log.jsonl
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Git LFS
+.git/lfs/
+
+# Large files that might be accidentally added
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
