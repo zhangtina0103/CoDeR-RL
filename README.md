@@ -1,7 +1,5 @@
 # CoDeR-RL: Reward-Shaped Reinforcement Learning for Efficient Reasoning in LLMs
-
-**Author:** Tina Zhang  
-**Affiliation:** Lenovo Research — Summer 2025  
+Lenovo — Summer 2025  
 **Base Model:** Qwen2.5-3B-Instruct  
 **Goal:** Match 7B-model reasoning and API accuracy using <50 % of the compute.
 
