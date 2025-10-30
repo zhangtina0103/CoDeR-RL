@@ -5,7 +5,7 @@ Lenovo — Summer 2025
 
 ## 🧩 Overview
 **CoDeR-RL** (Cosine + Delta + Regularization Reinforcement Learning) is a reward-shaping framework that improves reasoning quality and stability in small-to-mid-sized large language models.  
-It builds on NVIDIA’s Tool-N1 baseline but replaces the brittle **binary reward** with a structured, multi-component design that teaches *how* to reason better—not just *whether* the model is right.
+It builds on NVIDIA’s Tool-N1 baseline but replaces the **binary reward** with a structured, multi-component design that teaches *how* to reason better—not just *whether* the model is right.
 
 ---
 
